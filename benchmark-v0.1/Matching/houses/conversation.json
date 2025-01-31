@@ -1,0 +1,26 @@
+{
+    "id": "house_styles",
+    "images": [
+        "1.jpg",
+        "2.jpg",
+        "3.jpg",
+        "4.jpg",
+        "5.jpg",
+        "6.jpg"
+    ],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify the pictures."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show the following: a two-story house with a white exterior and tile roof; a modern house with large windows, stone accents, and a sleek design; a stone cottage-style house with a steep roof and garden in front; a cozy living room with built-in shelves, a large window, and classic decor; an open-concept living and kitchen area with modern furnishings and a minimalist design; and a hallway with a staircase featuring colorful tiles, arched doorways, and traditional decor."
+        },
+        {
+            "role": "user",
+            "content": "Based on the description and images, match the images together and explain why they are connected, justifying your matches by explaining the architectural details."
+        }
+    ],
+    "source": "internet"
+}

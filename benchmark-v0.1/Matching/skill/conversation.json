@@ -1,0 +1,19 @@
+{
+    "id": "skill_levels",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify what's shown in each image."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: a master chef plating an elaborate dish; a beginner cooking student following a basic recipe; a professional surgeon performing an operation; and a medical student practicing sutures on a model."
+        },
+        {
+            "role": "user",
+            "content": "Match these images into pairs based on their skill level relationships. Explain what connects each pair."
+        }
+    ],
+    "source": "internet"
+}

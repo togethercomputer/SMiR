@@ -1,0 +1,19 @@
+{
+    "id": "food_prep",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify what's shown in each image."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: raw vegetables on a cutting board; a finished salad in a bowl; uncooked pasta; and a plate of cooked spaghetti."
+        },
+        {
+            "role": "user",
+            "content": "Match these images into pairs showing the before and after stages of food preparation. Analyze the specific changes that occurred during the cooking process, such as changes in texture, appearance, and edibility. Support your matches by pointing out visible details from the images that demonstrate the transformation of ingredients into finished dishes."
+        }
+    ],
+    "source": "internet"
+}

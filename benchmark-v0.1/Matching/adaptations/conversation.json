@@ -1,0 +1,19 @@
+{
+    "id": "environment_adaptation",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify what's shown in each image."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: a snowy landscape; an arctic fox; a desert scene; and a camel."
+        },
+        {
+            "role": "user",
+            "content": "Match these images into environment-animal pairs. Analyze how each animal's visible physical characteristics specifically adapt to the challenges of their environment. Consider factors such as temperature regulation, camouflage, resource availability, and survival strategies. Support your matches with detailed observations of both the environmental conditions and the animal's visible adaptations."
+        }
+    ],
+    "source": "internet"
+}

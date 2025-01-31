@@ -1,0 +1,19 @@
+{
+    "id": "farm_pairs",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"],
+    "conversation": [
+        {
+            "role": "user", 
+            "content": "Identify what's shown in each image."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: milk buckets; a sheep; chickens; wool shears; cows; and an egg basket."
+        },
+        {
+            "role": "user",
+            "content": "Match each farm animal with what it produces. Analyze the relationship between each animal and its product, considering factors like how the product is collected, processed, and used. Support your matches with specific details visible in the images that show how each animal naturally produces these agricultural goods."
+        }
+    ],
+    "source": "internet"
+}

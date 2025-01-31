@@ -1,0 +1,25 @@
+{
+    "id": "color_patterns_extended",
+    "images": [
+        "1.jpg",
+        "2.jpg",
+        "3.jpg",
+        "4.jpg",
+        "5.jpg"
+    ],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "What is happening in the first image?"
+        },
+        {
+            "role": "assistant",
+            "content": "In the first image, there are three stacks of colored blocks. Each stack consists of four blocks in different colors (blue, green, yellow, and red). The arrangement of colors in each stack appears to follow a pattern where the position of each color changes from one stack to the next."
+        },
+        {
+            "role": "user",
+            "content": "Given the pattern sequence you identified, determine which option (a, b, c, d) correctly continues the sequence. Explain the reasoning behind your choice by identifying the pattern in the sequence."
+        }
+    ],
+    "source": "user-provided images"
+}

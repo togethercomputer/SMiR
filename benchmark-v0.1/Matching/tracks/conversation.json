@@ -1,0 +1,19 @@
+{
+    "id": "tracks_study",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify what's shown in each image."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: an impression in soft mud; a white-tailed deer in a forest; marks in sandy soil; and a brown bear in a wooded area."
+        },
+        {
+            "role": "user",
+            "content": "Match these images into pairs and explain the relationship between them. In your explanation, consider size proportions, pattern details, and the physical characteristics that would create such marks. Use specific visual evidence from both images in each pair to support your reasoning."
+        }
+    ],
+    "source": "internet"
+}
