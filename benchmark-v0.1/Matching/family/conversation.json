@@ -1,0 +1,19 @@
+{
+    "id": "family_car_pairs",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify what's shown in each image."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: a large family of 6 people; a minivan; a single person; and a small sports car."
+        },
+        {
+            "role": "user",
+            "content": "Match these images into pairs based on which vehicle would be most practical for each group's needs. Analyze specific features of each vehicle like passenger capacity, cargo space, and practicality that make it suitable for the group size shown. Support your matches by pointing out visible details that demonstrate how each vehicle addresses its group's transportation requirements."
+        }
+    ],
+    "source": "internet"
+}

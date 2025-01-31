@@ -1,0 +1,19 @@
+{
+    "id": "chemical_changes",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify the pictures."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: raw iron ore; a refined steel beam; raw cotton plants; and processed cotton fabric."
+        },
+        {
+            "role": "user",
+            "content": "Match each raw material with its processed form. Explain the transformation process that connects each pair."
+        }
+    ],
+    "source": "internet"
+}

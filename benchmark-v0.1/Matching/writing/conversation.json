@@ -1,0 +1,19 @@
+{
+    "id": "writing_tools",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify what's shown in each image."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: a fountain pen; a handwritten letter; a typewriter; and a typed document."
+        },
+        {
+            "role": "user",
+            "content": "Match these images into pairs showing writing tools with their corresponding outputs."
+        }
+    ],
+    "source": "internet"
+}

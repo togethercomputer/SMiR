@@ -1,0 +1,19 @@
+{
+    "id": "ecosystem_pairs",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify what's shown in each image."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: a flowering plant; a honeybee; a clownfish; and a sea anemone."
+        },
+        {
+            "role": "user",
+            "content": "Match these images into pairs that show symbiotic relationships. Analyze how each pair of organisms benefits from their association. Consider factors such as protection, nutrition, reproduction, and survival advantages. Support your matches with visible evidence of how these organisms interact in their natural environment."
+        }
+    ],
+    "source": "internet"
+}

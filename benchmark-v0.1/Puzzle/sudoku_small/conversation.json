@@ -1,0 +1,19 @@
+{
+    "id": "sudoku_small",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "I have four quadrants of a Sudoku puzzle, each represented by an image. How do I solve the Sudoku puzzle by fitting these quadrants together correctly?"
+        },
+        {
+            "role": "assistant",
+            "content": "To solve the Sudoku puzzle with the four quadrants provided, follow these steps:\n\n1. Review the images of the Sudoku quadrants.\n2. Each quadrant is a 2x2 grid containing numbers from 1 to 4. You need to place these quadrants in a 4x4 grid in such a way that:\n    - Each row contains the numbers 1 to 4 without repetition.\n    - Each column contains the numbers 1 to 4 without repetition.\n    - Each 2x2 sub-grid (quadrant) also contains the numbers 1 to 4 without repetition.\n3. Start by looking for clues or patterns that help determine where each quadrant fits, ensuring that all rules are satisfied.\n4. Adjust the quadrants as needed until you achieve a valid 4x4 Sudoku grid."
+        },
+        {
+            "role": "user",
+            "content": "Given the rules and the images of the four quadrants, what would be the correct placement of each quadrant to complete the Sudoku grid? Please explain your reasoning with great detail, focusing on how the numbers and squares match."
+        }
+    ],
+    "source": "internet"
+}

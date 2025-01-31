@@ -1,0 +1,25 @@
+{
+    "id": "matching_scenarios",
+    "images": [
+        "1.jpg",
+        "2.jpg",
+        "3.jpg",
+        "4.jpg",
+        "5.jpg"
+    ],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Which of the following images shows a natural habitat?"
+        },
+        {
+            "role": "assistant",
+            "content": "The image of the forest is the natural habitat."
+        },
+        {
+            "role": "user",
+            "content": "From the remaining images, which one best matches an animal that would naturally live in this habitat? Discuss the specific features such as the type of environment, the animal's physical characteristics, or behavior that informed your choice."
+        }
+    ],
+    "source": "internet"
+}

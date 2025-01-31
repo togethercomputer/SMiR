@@ -1,0 +1,19 @@
+{
+    "id": "home_technology",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "What household items are shown here?"
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: an old washboard for cleaning clothes; a modern washing machine; a traditional wood-burning stove; and a modern smart induction cooktop."
+        },
+        {
+            "role": "user",
+            "content": "Looking at all these household items, match them into their historical and modern pairs. For each pair, discuss specific features that make them counterparts, such as their core function, mechanisms of operation, and how the technology has evolved. Use visible details from the images to support your reasoning."
+        }
+    ],
+    "source": "internet"
+}

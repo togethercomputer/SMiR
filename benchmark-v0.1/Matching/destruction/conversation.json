@@ -1,0 +1,19 @@
+{
+    "id": "creation_destruction",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify what's shown in each image."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: a construction site with workers building; a demolition of an old building; a painter creating artwork; and a damaged painting being restored."
+        },
+        {
+            "role": "user",
+            "content": "Match these images into pairs that show opposing forces at work. Explain the relationship between each pair."
+        }
+    ],
+    "source": "internet"
+}

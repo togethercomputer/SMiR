@@ -1,0 +1,19 @@
+{
+    "id": "difference_medium",
+    "images": ["1.jpg", "2.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Below are two images that look almost identical. However, there are 10 subtle differences between them. How do you find all the differences?"
+        },
+        {
+            "role": "assistant",
+            "content": "To find all the differences between the two images, carefully compare each section of both images. Look for subtle changes such as variations in color, missing or added elements, differences in shapes, text alterations, or any other small adjustments that might be easy to overlook. Taking a systematic approach, such as examining the images from left to right and top to bottom, can help ensure that no differences are missed. Mark or list each difference as you identify them until you find all 10."
+        },
+        {
+            "role": "user",
+            "content": "Can you spot the differences? Describe in detail where they are and how they are different."
+        }
+    ],
+    "source": "internet"
+}

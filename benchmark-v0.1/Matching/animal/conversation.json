@@ -1,0 +1,19 @@
+{
+    "id": "animal_homes",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify what's shown in each image."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: a bird; a small wooden shelter; a dog; and a outdoor shelter."
+        },
+        {
+            "role": "user",
+            "content": "Match each animal with its appropriate shelter. Analyze the specific features of each shelter that make it suitable for its intended animal, considering factors like size, materials, protection from elements, and natural behaviors. Support your matches by pointing out visible details in the images that show how each shelter meets its animal's needs."
+        }
+    ],
+    "source": "internet"
+}

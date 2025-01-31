@@ -1,0 +1,19 @@
+{
+    "id": "art_tools",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify what's shown in each image."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: a pottery wheel; a clay vase; a blank canvas; and a completed painting."
+        },
+        {
+            "role": "user",
+            "content": "Match these images into pairs and explain how each tool or material contributes to the final result shown."
+        }
+    ],
+    "source": "internet"
+}

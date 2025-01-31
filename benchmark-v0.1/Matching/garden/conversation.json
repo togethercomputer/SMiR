@@ -1,0 +1,19 @@
+{
+    "id": "garden_tools",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify what's shown in each image."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: a watering can; a thirsty plant with dry soil; pruning shears; and overgrown branches."
+        },
+        {
+            "role": "user",
+            "content": "Based on your descriptions and the details in the images, identify the cause-and-effect relationships between the tools and plant conditions shown. Match the images by explaining how each tool addresses specific plant care needs and justify your pairings with visible evidence from the images."
+        }
+    ],
+    "source": "internet"
+}

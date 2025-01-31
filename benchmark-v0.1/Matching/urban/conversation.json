@@ -1,0 +1,19 @@
+{
+    "id": "urban_patterns",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify what's shown in each image."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: an aerial view of city streets; people walking on sidewalks; a subway map; passengers on a train; traffic signs at an intersection; and cars on a highway."
+        },
+        {
+            "role": "user",
+            "content": "Match these images into pairs based on their connection to urban movement patterns. Justify your matches using visual evidence."
+        }
+    ],
+    "source": "internet"
+}

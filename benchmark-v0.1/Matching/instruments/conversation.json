@@ -1,0 +1,19 @@
+{
+    "id": "music_matching",
+    "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Identify the pictures."
+        },
+        {
+            "role": "assistant",
+            "content": "The images show: a violin displayed on a stand; a rock band performing on stage; an electric guitar in a display case; and a classical orchestra performing in a concert hall."
+        },
+        {
+            "role": "user",
+            "content": "Match each instrument with its typical performance setting. Support your matches with specific details from the images."
+        }
+    ],
+    "source": "internet"
+}
