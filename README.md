@@ -4,17 +4,13 @@ Synthetic data pipeline for multi-image reasoning
 ## Overview
 This repository contains the official implementation of our paper: [Efficient Synthetic Data Pipeline to Improve Multi-Image Reasoning](https://arxiv.org/abs/2501.03675).
 
-## Coming Soon
-- Dataset generation pipeline
-
-
 ## 🏆 Credits
 
 We would like to acknowledge the following resources that were instrumental in the development of SMIR:
 
 - [Meta Llama 3.1](https://huggingface.co/meta-llama/Llama-3.1-70B-Instruct): We utilized the Llama 3.1 model as our foundational language model via ["Together AI"](https://www.together.ai/models/llama-3-1-70b).
 
-- [SigLIP](https://huggingface.co/timm/ViT-SO400M-14-SigLIP-384: We utilized a SigLIP model as our embedding model from Google.
+- [SigLIP](https://huggingface.co/timm/ViT-SO400M-14-SigLIP-384): We utilized a SigLIP model as our embedding model from Google.
 
 - [CLIP](https://github.com/facebookresearch/MetaCLIP/blob/main/src/open_clip/model_configs/ViT-H-14-quickgelu.json): We utilized MetaCLIP, Meta's implementation of CLIP, as our embedding model.
 
